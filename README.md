@@ -18,11 +18,12 @@ The Anti Mobile Crasher filterscript is designed to prevent players from equippi
 
 1. Place `AntiMobileCrasher.pwn` into your server's `filterscripts/` directory.
 2. Add `AntiMobileCrasher` to the `filterscripts` line in your `server.cfg`:
+
    ```ini
    filterscripts AntiMobileCrasher
    ```
-3. Compile the script
-4. Restart your SA-MP server.
+4. Compile the script
+5. Restart your SA-MP server.
 
 ## Usage
 
